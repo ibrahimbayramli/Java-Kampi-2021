@@ -1,1 +1,1 @@
-# Java-Kampi-2021
+# Engin DEMİROĞ'un 2021 yılında düzenlediği Java - React kampı uygulamaları.
